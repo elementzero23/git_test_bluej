@@ -1,9 +1,9 @@
 
 /**
- * Beschreiben Sie hier die Klasse Hello.
+ * Einfache Hello-World-Ausgabe.
  * 
- * @author (Ihr Name) 
- * @version (eine Versionsnummer oder ein Datum)
+ * @author Christopher Wagner
+ * @version 0.0.1
  */
 public class Hello
 {
